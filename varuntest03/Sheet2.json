@@ -1,0 +1,27 @@
+[
+  {
+    "Subcategory": "AI - Analyze",
+    "Key Metrics": "Upload a file - 10 MB",
+    "Target": "3 sec"
+  },
+  {
+    "Key Metrics": "Upload a file - 25MB",
+    "Target": "7.5 sec"
+  },
+  {
+    "Key Metrics": "Upload a file - 50 MB",
+    "Target": "<15 sec"
+  },
+  {
+    "Key Metrics": "Upload a file - txt - 5 MB",
+    "Target": "1.5 sec"
+  },
+  {
+    "Key Metrics": "Upload a file - .doc - 15MB",
+    "Target": "4.5 sec"
+  },
+  {
+    "Key Metrics": "Analyze the file -- \"summarize the document\" - Moby Dick pdf (7MB)",
+    "Target": "<3 sec"
+  }
+]
