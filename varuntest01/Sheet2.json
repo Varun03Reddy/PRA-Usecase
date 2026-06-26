@@ -1,123 +1,27 @@
 [
   {
-    "Unnamed: 0": "Ingestion of single document",
-    "Test Scenarios": "Single document extension .pdf"
+    "Subcategory": "AI - Analyze",
+    "Key Metrics": "Upload a file - 10 MB",
+    "Target": "3 sec"
   },
   {
-    "Test Scenarios": "Single document extension .docx"
+    "Key Metrics": "Upload a file - 25MB",
+    "Target": "7.5 sec"
   },
   {
-    "Test Scenarios": "Single document extension .txt"
+    "Key Metrics": "Upload a file - 50 MB",
+    "Target": "<15 sec"
   },
   {
-    "Test Scenarios": "Single document extension .ppt"
+    "Key Metrics": "Upload a file - txt - 5 MB",
+    "Target": "1.5 sec"
   },
   {
-    "Unnamed: 0": "Ingestion of single document containing single images",
-    "Test Scenarios": "Single document with extension .ppt and containing .jpeg image  "
+    "Key Metrics": "Upload a file - .doc - 15MB",
+    "Target": "4.5 sec"
   },
   {
-    "Test Scenarios": "Single document with extension .docx and containing .jpeg image "
-  },
-  {
-    "Test Scenarios": "Single document with extension .ppt and containing .jpeg image  "
-  },
-  {
-    "Test Scenarios": "Single document with extension .ppt and containing .png image  "
-  },
-  {
-    "Test Scenarios": "Single document with extension .docx and containing .png image "
-  },
-  {
-    "Test Scenarios": "Single document with extension .ppt and containing .png image  "
-  },
-  {
-    "Unnamed: 0": "Ingest document with multilingual data",
-    "Test Scenarios": "Single document with extension .pdf containing multilingual data and images"
-  },
-  {
-    "Test Scenarios": "Single document with extension .docx containing multilingual data and images"
-  },
-  {
-    "Test Scenarios": "Single document with extension .ppt containing multilingual data and images"
-  },
-  {
-    "Test Scenarios": "Single document with extension .txt containing multilingual data and images"
-  },
-  {
-    "Unnamed: 0": "Ingestion of single document with large number of pages",
-    "Test Scenarios": "Single document extension .pdf with at least 100 pages"
-  },
-  {
-    "Test Scenarios": "Single document extension .docx with atleast 100 pages"
-  },
-  {
-    "Test Scenarios": "Single document extension .txt with atleast 100 pages"
-  },
-  {
-    "Test Scenarios": "Single document extension .ppt with atleast 30 slides"
-  },
-  {
-    "Unnamed: 0": "Ingestion of single large file size and document containing mulitple images ",
-    "Test Scenarios": "Single document with extension .ppt and containing mulitple .jpeg image  "
-  },
-  {
-    "Test Scenarios": "Single document with extension .docx and containing multiple .jpeg images"
-  },
-  {
-    "Test Scenarios": "Single document with extension .ppt and containing multiple .jpeg images"
-  },
-  {
-    "Test Scenarios": "Single document with extension .ppt and containing mulitple .png images"
-  },
-  {
-    "Test Scenarios": "Single document with extension .docx and containing multiple .png images"
-  },
-  {
-    "Test Scenarios": "Single document with extension .ppt and containing multiple .png images"
-  },
-  {
-    "Unnamed: 0": "Ingest single large document with multilingual data and multiple images in different extension ",
-    "Test Scenarios": "Single .ppt document with multilingual data and containing mulitple images in .jpeg and .png format"
-  },
-  {
-    "Test Scenarios": "Single .docx document with multilingual data and containing mulitple images in .jpeg and .png format"
-  },
-  {
-    "Test Scenarios": "Single .pdf document with multilingual data and containing mulitple images in .jpeg and .png format"
-  },
-  {
-    "Unnamed: 0": "Ingest multiple document with same extensions",
-    "Test Scenarios": "Multiple document with same extension .pdf"
-  },
-  {
-    "Test Scenarios": "Multiple document with same extension .docx"
-  },
-  {
-    "Unnamed: 0": "Ingest multiple document with different extensions",
-    "Test Scenarios": "Multiple document with different extensions .pdf, .docx and .ppt"
-  },
-  {
-    "Test Scenarios": "Multiple document with same extension .pdf, .pdf, .txt and .ppt"
-  },
-  {
-    "Unnamed: 0": "Ingest multiple document containing images and with different doc extension ",
-    "Test Scenarios": "Multiple document with different extensions .pdf, .docx and .ppt containing images in .jpeg and .png images"
-  },
-  {
-    "Unnamed: 0": "Ingest multiple document containing multilingual data,  images and with different doc extension ",
-    "Test Scenarios": "Multiple document  with different extensions .pdf, .docx and .ppt containing multilingual data and images in .jpeg and .png "
-  },
-  {
-    "Test Scenarios": "< 10 MB"
-  },
-  {
-    "Test Scenarios": "< 20 MB"
-  },
-  {
-    "Test Scenarios": "< 30 MB"
-  },
-  {
-    "Test Scenarios": "< 50 MB"
+    "Key Metrics": "Analyze the file -- \"summarize the document\" - Moby Dick pdf (7MB)",
+    "Target": "<3 sec"
   }
 ]
