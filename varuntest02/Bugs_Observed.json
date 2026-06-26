@@ -1,0 +1,62 @@
+[
+  {
+    "Test Case #": "Test case 02",
+    "Description": "On uploading .pdf file of size 83 kb, response time of AddDocumentAsync API is appearing as 2.8 secs which is breaching the target NFR of < 1.5 secs"
+  },
+  {
+    "Test Case #": "Test case 03",
+    "Description": "On uploading .docx file of size 17 kb, response time of AddDocumentAsync API is appearing as 2.6 secs which is breaching the target NFR i.e. less than  < 1.5 secs"
+  },
+  {
+    "Test Case #": "Test case 04",
+    "Description": "On uploading .pptx file of size 38 kb, response time of AddDocumentAsync API is appearing as 3.6 secs which is breaching the target NFR i.e. less than  < 1.5 secs"
+  },
+  {
+    "Test Case #": "Test Case 05",
+    "Description": "On uploading a .pdf file of around 7 MB, repsonse time of AddDocumentAsync API is appeared as 9.09 sec which is breaching the target NFR i.e. less than  3 sec"
+  },
+  {
+    "Test Case #": "Test Case 10",
+    "Description": "On uploading around 9 MB .docx file containing a multilingual data average response time of all the API's is appearing as  10 mins, out of which AddDocumentAsync API took 41 mins which far from away from the target NFR i.e. less than  3 secs"
+  },
+  {
+    "Test Case #": "Test Case 10",
+    "Description": "On uploading around 9 MB .docx file containing a multilingual data GetDocumentChunkIds API is throwing error with the message appearing as-  \"Failed to execute LLM command\""
+  },
+  {
+    "Test Case #": "Test Case 13",
+    "Description": "On uploading around 2 MB .docx file average response time of all the API's is appearing as  11 mins, out of which AddDocumentAsync API took 46 mins which is breaching the target NFR i.e. less than 1.5 secs"
+  },
+  {
+    "Test Case #": "Test Case 15",
+    "Description": "On uploading a .pdf file with size 1 MB containing multilingal data, average response time of all the API's is appeared as 48.6 AddDocumentAsync took 194 secs which is breaching the target NFR i..e less than 1.5 secs"
+  },
+  {
+    "Test Case #": "Test Case 16",
+    "Description": "On uploading around 2 MB .pdf file containing mix of images and text, average response time of all the API's is appearing as 1 mins, out of which AddDocumentAsync API took 4 mins which is breaching the target NFR i.e. less than 1.5 secs"
+  },
+  {
+    "Test Case #": "Test Case 17",
+    "Description": "On uploading the .docx file of 38 kb containing combination of text and images,  response time of AddDocumentAsync API appeared as 2.7 secs which is breaching the target NFR i.e. less than 1.5 secs"
+  },
+  {
+    "Test Case #": "Test Case 18",
+    "Description": "On uploading around 3 MB .docx file containing mix of images and text, average response time of all the API's is appearing as 21 secs, out of which AddDocumentAsync API took 86 secs which is breaching the target NFR i.e. less than 1.5 secs"
+  },
+  {
+    "Test Case #": "Test Case 14",
+    "Description": "On uploading around 9 MB .pdf file containing multilingal data, average response time of all the API's is appearing as  8 mins, out of which AddDocumentAsync API took 32 mins which is breaching the target NFR i.e. less than  3 secs"
+  },
+  {
+    "Test Case #": "Test Case 06",
+    "Description": "On uploading .pdf file of size 11MB, Avg response time of all the api's is 8.2 secs, out of which AddDocumentAsync API is appearing as 32.7 secs. which is breaching the target NFR i.e. less than 4.5 secs"
+  },
+  {
+    "Test Case #": "Test Case 07",
+    "Description": "On uploading docx file of size 14MB, avg response time of all the api's is 2 mins, out of which AddDocumentAsync API is appearing as 9.8 mins which is breaching the target NFR i.e. less than 4.5 secs"
+  },
+  {
+    "Test Case #": "Test Case 08",
+    "Description": "On uploading .pdf file of size 21MB, Avg response time of all the api's is 11.3 secs, out of which AddDocumentAsync API is appearing as 45 secs. which is breaching the target NFR i.e. less than 7.5 secs"
+  }
+]
