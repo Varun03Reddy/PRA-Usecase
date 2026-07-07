@@ -1,0 +1,65 @@
+[
+  {
+    "Unnamed: 0": "Target Service",
+    "Unnamed: 1": "Document Analysis Service"
+  },
+  {
+    "Unnamed: 0": "Data Collected By ",
+    "Unnamed: 1": "Pooja Shejawal"
+  },
+  {
+    "Unnamed: 1": "This report carries the performance of the API's related to Document Analysis service. The api's are found from the page https://github.azc.ext.hp.com/NCE/win-svc-ai-manager"
+  },
+  {
+    "Unnamed: 0": "App Version",
+    "Unnamed: 1": "1.0.1376.6190"
+  },
+  {
+    "Unnamed: 0": "Responce Time NFR Shared",
+    "Unnamed: 3": "Resource Utilization NFR Shared"
+  },
+  {
+    "Unnamed: 0": "Target Response time from the NFR shared",
+    "Unnamed: 3": "Target Response time from the NFR shared"
+  },
+  {
+    "Unnamed: 0": "upto 5 MB",
+    "Unnamed: 1": "< 1.5 secs",
+    "Unnamed: 3": "CPU utilization - idle",
+    "Unnamed: 4": "<5%"
+  },
+  {
+    "Unnamed: 0": "5 to 10 MB",
+    "Unnamed: 1": "< 3 secs",
+    "Unnamed: 3": "CPU utilization - active/peak",
+    "Unnamed: 4": "<30%"
+  },
+  {
+    "Unnamed: 0": "10 to 15 MB",
+    "Unnamed: 1": "< 4.5 secs",
+    "Unnamed: 3": "GPU utilization - idle",
+    "Unnamed: 4": "<4%"
+  },
+  {
+    "Unnamed: 0": "15 to 25 MB",
+    "Unnamed: 1": "< 7.5 secs",
+    "Unnamed: 3": "GPU utilization - active/peak",
+    "Unnamed: 4": "<30%"
+  },
+  {
+    "Unnamed: 0": "26 to 50 MB",
+    "Unnamed: 1": "< 15 secs",
+    "Unnamed: 3": "Baseline VRAM / shared GPU memory usage",
+    "Unnamed: 4": "<5%"
+  },
+  {
+    "Unnamed: 3": "Peak load VRAM / shared GPU memory usage",
+    "Unnamed: 4": "<40%"
+  },
+  {
+    "Unnamed: 3": "Disk I/O"
+  },
+  {
+    "Unnamed: 3": "Disk I/O"
+  }
+]
